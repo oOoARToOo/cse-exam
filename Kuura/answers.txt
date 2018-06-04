@@ -1,0 +1,47 @@
+1. What branches exist in this repository?
+	37 total branches
+
+	35_removed-text-files
+	missing-urls
+	urls
+	master
+	dev
+	more-js
+	image-styles
+	course-description
+	translate-1 to translate-10 (10 branches in total)
+	calc-1 to calc-6 (6 branches total)
+	calculations
+	js
+	bold-heading
+	wider-section
+	translate-directions
+	translate-colours
+	translations-file
+	py
+	travis
+	html
+	css
+	readme
+	raven
+	
+	Using "git log --oneline --all --graph --decorate"
+	
+2. How many commits are in this repository (in total; in all branches)?
+	53 total commits
+	
+	Using "git log --oneline --all"
+	
+3. When was the line #10 in the file index.html last changed and who is the author of that commit?
+
+	commit 74dc2d36ac558929972d3e0ee400c206fe8cdad7
+	Author: Stepan Bolotnikov <stjoopa@gmail.com>
+	Date:   Mon May 7 19:17:18 2018 +0300
+
+	Using "git log -L10,10:index.html"
+	
+4. What is the commit message of the commit with the hash 865cbc8? 
+	
+	"Added travis config file"
+	
+	Using "git show 865cbc8"
