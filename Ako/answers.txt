@@ -1,0 +1,39 @@
+1.
+  45_add-sis-url
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/bold-heading
+  remotes/origin/calc-1
+  remotes/origin/calc-2
+  remotes/origin/calc-3
+  remotes/origin/calc-4
+  remotes/origin/calc-5
+  remotes/origin/calc-6
+  remotes/origin/calculations
+  remotes/origin/course-description
+  remotes/origin/css
+  remotes/origin/dev
+  remotes/origin/html
+  remotes/origin/image-styles
+  remotes/origin/js
+  remotes/origin/master
+  remotes/origin/missing-urls
+  remotes/origin/more-js
+  remotes/origin/py
+  remotes/origin/raven
+  remotes/origin/readme
+
+2. 
+There was 30 commits total in the repository
+1 in 45_add-sis-url branch, origin/html, origin/js, origin/translations-file
+3 in origin/travis, origin/calculations
+2 in origin/py
+6 in origin/css
+3 in origin/urls, origin/master, origin/dev, origin/HEAD, master
+
+3.
+File index.html was last edited in the commit 74dc2d36ac558929972d3e0ee400c206fe8cdad7
+on may 7 19.14.12 by Stepan Bolotnikov
+
+4.
+Added travis config file
