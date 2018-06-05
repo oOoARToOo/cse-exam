@@ -1,5 +1,5 @@
 UT homepage:
-UT study information system:
+UT study information system: ois.ut.ee
 UT library:
 UT institute of computer science:
 UT academic sports club:http://sport.ut.ee/in-english/
