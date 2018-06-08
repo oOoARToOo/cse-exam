@@ -1,0 +1,11 @@
+How many commits are in this repository (in total; in all branches)? 
+
+77 - if counting merges, 64 - if not counting merges.
+
+When was the line #10 in the file index.html last changed and who is the author of that commit? 
+
+It was last changed on 2018-05-07 19:17:18 +0300 by Stepan Bolotnikov
+
+What is the commit message of the commit with the hash 865cbc8?
+
+The commit message was: "Added travis config file"
